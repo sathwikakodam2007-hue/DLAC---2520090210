@@ -1,0 +1,13 @@
+{
+    "Dataset": "Traffic images and annotation files",
+    "Preprocessing": "Resized and normalized images",
+    "Model Architecture": "Model configuration",
+    "Training": "Training logs and learned parameters",
+    "Evaluation": "Evaluation metrics and performance report",
+    "Checkpoint": "Saved model weights",
+    "Optimization": "ONNX model or TensorRT engine",
+    "Deployment": "Inference server configuration",
+    "Inference": "Object detection predictions",
+    "Postprocessing": "Bounding boxes and class labels",
+    "Monitoring": "Latency, errors and performance logs"
+}
